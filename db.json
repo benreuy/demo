@@ -2,16 +2,22 @@
 
 
 	"imports": [{
-			"id": 1,
-			"title": "Post 1"
+			"request": 1,
+			"lastupdate": "02.03.2019",
+			"created": "08.09.2019",
+			"importername": "Gogo"
 		},
 		{
-			"id": 2,
-			"title": "Post 2"
+			"request": 2,
+			"lastupdate": "05.02.2018",
+			"created": "08.09.2014",
+			"importername": "ali"
 		},
 		{
-			"id": 3,
-			"title": "Post 3"
+			"request": 3,
+			"lastupdate": "06.07.2019",
+			"created": "05.09.2017",
+			"importername": "ali"
 		}
 	]
 
